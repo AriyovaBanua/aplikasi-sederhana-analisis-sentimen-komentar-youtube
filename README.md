@@ -50,11 +50,10 @@ https://github.com/namauser/nama-repo.git
 ```
 
 ### 2. **Masuk ke Folder Backend dan Buat Environment**
-```bash
-cd backend
-python -m venv env
-source env/bin/activate   # Untuk Linux/Mac
-env\Scripts\activate      # Untuk Windows
+Ganti nama file env menjadi .env.
+Ubah isinya dengan Youtube data API Key milikmu
+```
+YOUTUBE_API_KEY= API_KEY_KAMU
 ```
 
 ### 3. **Instalasi Library Backend**
