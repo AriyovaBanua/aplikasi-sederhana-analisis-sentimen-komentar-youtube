@@ -61,22 +61,18 @@ YOUTUBE_API_KEY= API_KEY_KAMU
 pip install -r requirements.txt
 ```
 
-### 4. **Siapkan file .env**
-- Ubah nama file `.env.template` menjadi `.env`
-- Isi nilai `YOUTUBE_API_KEY=API_KAMU`
-
-### 5. **Jalankan Backend**
+### 4. **Jalankan Backend**
 ```bash
 python app.py
 ```
 
-### 6. **Masuk ke Folder Frontend dan Instalasi**
+### 5. **Masuk ke Folder Frontend dan Instalasi**
 ```bash
 cd ../frontend
 npm install
 ```
 
-### 7. **Jalankan Frontend**
+### 6. **Jalankan Frontend**
 ```bash
 npm install axios
 npm install recharts
