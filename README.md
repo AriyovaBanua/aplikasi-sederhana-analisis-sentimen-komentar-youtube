@@ -4,7 +4,7 @@ Aplikasi ini digunakan untuk menganalisis sentimen komentar dalam Bahasa Indones
 
 ---
 
-## 🧠 Penjelasan Aplikasi
+## Penjelasan Aplikasi
 
 Aplikasi ini terdiri dari dua bagian utama:
 
@@ -46,7 +46,7 @@ Aplikasi ini terdiri dari dua bagian utama:
 
 ### 1. **Clone Project**
 ```bash
-https://github.com/namauser/nama-repo.git
+https://github.com/AriyovaBanua/aplikasi-sederhana-analisis-sentimen-komentar-youtube.git
 ```
 
 ### 2. **Masuk ke Folder Backend dan Buat Environment**
